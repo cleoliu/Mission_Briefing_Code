@@ -1,4 +1,3 @@
-# 
 # 開發環境
 * Project 環境：Ubuntu 16.04.2 LTS (GNU/Linux 4.4.0-78-generic x86_64)
 
